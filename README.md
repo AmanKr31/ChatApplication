@@ -37,15 +37,19 @@ git clone https://github.com/AmanKr31/ChatApplication.git
 cd ChatApplication
 
 2. Install dependencies
+<br>
 npm init -y
+<br>
 npm i express socket.io
+<br>
 
 3. Start the server
-nodemon index.js
+<br>
+nodemon start
 Or, if nodemon isn't installed globally:
 
 
-4. Open in different browsers
+6. Open in different browsers
 
 http://localhost:3000
 You can open it in two tabs or browsers to test real-time chat.
