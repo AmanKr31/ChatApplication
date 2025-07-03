@@ -6,7 +6,8 @@ A simple real-time chat application built with **Socket.IO**, **Node.js**, **Exp
 
 ## 📸 Screenshot
 
-![Chat App Screenshot](./Screenshot%202025-07-03%20163310.png)
+![Chat App Screenshot](![Screenshot 2025-07-03 163310](https://github.com/user-attachments/assets/53636ce1-8d1d-48e2-b181-58aa3ee92f31)
+)
 
 ---
 
